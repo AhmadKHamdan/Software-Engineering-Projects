@@ -33,7 +33,7 @@ This project also includes the `.astah` files containing all UML diagrams, fully
 
 ## Team Members & Final Grades
 
-  Student           Final Grade
-  ----------------- -------------
-  Diaa Badaha       80
-  Nasri Omar        83
+| Student | Final Grade |
+|----------|------------|
+| Diaa Badaha | 80 |
+| Nasri Omar | 83 |
