@@ -17,13 +17,13 @@ This project also includes the `.astah` files containing all UML diagrams, fully
 
 ## Team Members & Final Grades
 
-  Student           Final Grade
-  ----------------- -------------
-  Ahmad Hamdan      87
-  Mohammad Fareed   86
-  Sohaib Badaha     75
-  Ismail Tarteer    78
-  Omar Hussien      82
+| Student | Final Grade |
+|----------|------------|
+| Ahmad Hamdan | 87 |
+| Mohammad Fareed | 86 |
+| Sohaib Badaha | 75 |
+| Ismail Tarteer | 78 |
+| Omar Hussien | 82 |
 
 ------------------------------------------------------------------------
 
