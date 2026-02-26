@@ -2,7 +2,7 @@
 
 This repository contains a collection of Software Engineering course
 projects completed as part of **COMP433 -- Software Engineering** at the
-Faculty of Engineering and Technology.
+Faculty of Engineering and Technology in the first semester of the year 2025/2026.
 
 The repository includes: - All submitted project files & Corrected versions returned by instructors
 
