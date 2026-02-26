@@ -4,8 +4,7 @@ This repository contains a collection of Software Engineering course
 projects completed as part of **COMP433 -- Software Engineering** at the
 Faculty of Engineering and Technology.
 
-The repository includes: - All submitted project files -
-Corrected/annotated versions returned by instructors
+The repository includes: - All submitted project files & Corrected versions returned by instructors
 
 ------------------------------------------------------------------------
 
