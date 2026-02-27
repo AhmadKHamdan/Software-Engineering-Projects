@@ -26,7 +26,24 @@ This project also includes the `.astah` files containing all UML diagrams, fully
 
 ------------------------------------------------------------------------
 
-# Project 2 -- Online Flights Booking System
+# Project 2 -- Coffee Beans Shop
+
+**Instructor: Dr. Tasnim Zayet**
+
+## Team Members & Final Grades
+
+| Student | Final Grade |
+|----------|------------|
+| Osaid Nur | 87 |
+| Jana Sawalmeh | 87 |
+| Waleed Rimawi | 84 |
+| Salah Dawabsheh | 82 |
+| Mumen Anbar | 79 |
+
+
+------------------------------------------------------------------------
+
+# Project 3 -- Online Flights Booking System
 
 **Instructor: Prof. Adel Taweel**
 
@@ -36,3 +53,6 @@ This project also includes the `.astah` files containing all UML diagrams, fully
 |----------|------------|
 | Diaa Badaha | 80 |
 | Nasri Omar | 83 |
+
+
+
